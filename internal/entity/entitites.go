@@ -7,7 +7,7 @@ type Measures struct {
 	Forearm        float32 `json:"forearm"`
 	Flexibility    float32 `json:"flexibility"`
 	FootSize       float32 `json:"foot-size"`
-	SeatLenght     float32 `json:"seat-lenght"`
+	SeatLenght     float32 `json:"seat-length"`
 	HorizontalSize float32 `json:"horizontal-size"`
 }
 
